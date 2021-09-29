@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CamGal_Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_camera">Camera</string>
+    <string name="str_gallery">Gallery</string>
+    <string name="fail_to_crop">Fail to crop</string>
+    <string name="all_image_selected">All images are selected !</string>
+    <string name="str_all_selected_images">Already Image Selected on this position, choose another</string>
+    <string name="capture_image_first">Capture Image First !</string>
+    <string name="already_image_selected">Already Image Selected on this position, choose another</string>
+    <string name="image_already_selecdte">This Image Already Exist In Selected List</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="str_creation">Creation</string>
+    <string name="str_setting">setting</string>
+</resources>
